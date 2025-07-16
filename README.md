@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Tymur Biedin
 
-<!--
-**Nonaamme/nonaamme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student currently studying in Poland and Ukraine.  
+💻 I enjoy building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, C++, Python, Golang, HTML, CSS
+- **Frameworks:** React.js, Node.js (basic)
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📁 My Projects
+
+### 💈 [Barber Shop Website](https://github.com/Nonaamme/mojastrona)
+> React.js + PHP + MySQL — a full-stack responsive site for barbershop booking.  
+> Designed and built in 2 weeks as part of a coding course.
+
+<!-- More projects here later -->
+
+---
+
+## 📫 How to reach me
+- Email: bedin0102@gmail.com   
+- Phone: +48 883 268 887 / +48 066 684 83 46

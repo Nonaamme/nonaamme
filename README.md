@@ -27,5 +27,4 @@
 ---
 
 ## 📫 How to reach me
-- Email: bedin0102@gmail.com   
-- Phone: +48 883 268 887 / +48 066 684 83 46
+- Email: bedin0102@gmail.com

@@ -19,7 +19,7 @@
 > React.js + PHP + MySQL — a full-stack responsive site for barbershop booking.  
 > Designed and built in 2 weeks as part of a university course.
 
-### 💻 [Practice Projects in C++ Builder](https://github.com/Nonaamme/practice-projects-C-Builder)
+### 💻 [Practical Projects in C++ Builder](https://github.com/Nonaamme/practice-projects-C-Builder)
 > C++ Builder and C++ — all the reports of th eprojects in C++ builder.  
 > Designed and built in 2 weeks as part of a lyceum course.
 <!-- More projects here later -->

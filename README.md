@@ -28,3 +28,4 @@
 
 ## 📫 How to reach me
 - Email: bedin0102@gmail.com
+- Phone: +48 883 268 887 (polish) / +380 66 684 83 46 (ukrainian)

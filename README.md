@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Tymur Biedin
 
 🎓 I'm a Computer Science student currently studying in Poland and Ukraine.  
-💻 I enjoy building web applications and exploring new technologies.
+💻 I enjoy building backend solutions, web applications and exploring new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, C++, Python, Golang, HTML, CSS
-- **Frameworks:** React.js, Node.js (basic)
+- **Languages:** C#, .NET, C++, Python, Golang, HTML, CSS, JavaScript,
+- **Frameworks:** React.js, Node.js, WPF.
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, Visual Studio, VS Code, C++ Builder.
 
 ---
 

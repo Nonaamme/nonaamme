@@ -6,10 +6,13 @@ I enjoy building backend solutions, web applications and exploring new technolog
 ---
 
 ## Tech Stack
-- **Languages:** C#, .NET, C++, Python, Golang, HTML, CSS, JavaScript,
-- **Frameworks:** WPF, C++ Builder, React.js, Node.js.
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, Visual Studio, VS Code.
+**Backend:** C#, .NET / ASP.NET Core
+**Databases:** MySQL  
+**Desktop:** WPF, C++ Builder  
+**Frontend:** React.js, HTML, CSS, JavaScript  
+**Other:** C++, Python, Go  
+**Tools:** Git, GitHub, Visual Studio, VS Code
+
 
 ---
 

@@ -6,7 +6,7 @@ I enjoy building backend solutions, web applications and exploring new technolog
 ---
 
 ## Tech Stack
-**Backend:** C#, .NET / ASP.NET Core
+**Backend:** C#, .NET / ASP.NET Core  
 **Databases:** MySQL  
 **Desktop:** WPF, C++ Builder  
 **Frontend:** React.js, HTML, CSS, JavaScript  

@@ -10,7 +10,7 @@ I enjoy building backend solutions, web applications and exploring new technolog
 **Databases:** MySQL  
 **Desktop:** WPF, C++ Builder  
 **Frontend:** React.js, HTML, CSS, JavaScript  
-**Other:** C++, Python, Go  
+**Other:** C++, Python, Go, Java  
 **Tools:** Git, GitHub, Visual Studio, VS Code
 
 

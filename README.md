@@ -1,34 +1,91 @@
 # Hi, I'm Tymur Biedin
 
-I'm a Computer Science student currently studying in Poland and Ukraine.  
-I enjoy building backend solutions, web applications and exploring new technologies.
+Computer Science student focused on backend development with C# and .NET.  
+Currently studying at Uniwersytet Opolski (Poland) and building practical backend projects.
+
+Interested in ASP.NET Core, databases and building REST APIs.
 
 ---
 
 ## Tech Stack
-**Backend:** C#, .NET / ASP.NET Core  
-**Databases:** MySQL  
-**Desktop:** WPF, C++ Builder  
-**Frontend:** React.js, HTML, CSS, JavaScript  
-**Other:** C++, Python, Go, Java  
-**Tools:** Git, GitHub, Visual Studio, VS Code
 
-
----
-
-## My Projects
-
-### [Barber Shop Website](https://github.com/Nonaamme/mojastrona)
-> React.js + PHP + MySQL — a full-stack responsive site for barbershop booking.  
-> Designed and built in 2 weeks as part of a university course.
-
-### [C++ Builder Desktop Applications (Academic Projects)](https://github.com/Nonaamme/practice-projects-C-Builder)
-> C++ Builder and C++ — all the reports of th eprojects in C++ builder.  
-> Designed and built in 2 weeks as part of a lyceum course.
-<!-- More projects here later -->
+Backend: C#, .NET, ASP.NET Core  
+Databases: SQL, MySQL  
+Desktop: WPF  
+Frontend: HTML, CSS, JavaScript, React  
+Tools: Git, GitHub, Visual Studio
 
 ---
 
-## How to reach me
-- Email: bedin0102@gmail.com
-- Phone: +48 883 268 887 (polish) / +380 66 684 83 46 (ukrainian)
+## Projects
+
+### Student Grade Manager
+Console application for managing student records and grades.
+
+Features:
+- Object-oriented design
+- Data management using collections and LINQ
+- File storage for saving and loading data
+
+Tech:
+C#, .NET
+
+GitHub:  
+https://github.com/Nonaamme/ConsolApp-Student-Grade-Manager-Csharp
+
+---
+
+### C++ Builder Desktop Applications (Academic Projects)
+
+Collection of desktop GUI applications developed during programming coursework.
+
+Focus:
+- object-oriented programming
+- desktop GUI development
+- algorithm implementation
+
+Tech:
+C++ Builder, C++
+
+GitHub:  
+https://github.com/Nonaamme/practice-projects-C-Builder
+
+---
+
+### Barber Shop Website
+
+Full-stack website for barbershop booking.
+
+Features:
+- responsive UI
+- booking system
+- database integration
+
+Tech:
+React, PHP, MySQL
+
+GitHub:  
+https://github.com/Nonaamme/mojastrona
+
+---
+
+## Education
+
+Uniwersytet Opolski — Computer Science (BSc)  
+2024 – 2028
+
+Technical School of Programming (Ukraine) — Programming / Software Development  
+2022 – 2026
+
+---
+
+## Contact
+
+Email:  
+bedin0102@gmail.com
+
+Phone:  
+PL: +48 883 268 887  
+
+LinkedIn:  
+https://www.linkedin.com/in/tymur-biedin/

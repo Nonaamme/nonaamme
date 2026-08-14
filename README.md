@@ -1,6 +1,6 @@
 # Hi, I'm Tymur Biedin 👋
 
-Computer Science student at Uniwersytet Opolski (Poland) with a strong passion for **IT Support, Software Testing (QA), and IT infrastructure**. 
+Computer Science student at Uniwersytet Opolski (Poland) with a strong passion for **Software Testing (QA), and Analizing Data**. 
 
 Having a solid foundation in software development (C#, C++, web technologies) allows me to understand technical issues from the inside out, making me effective at troubleshooting, testing, and finding logical solutions to complex problems. Currently looking for entry-level roles or internships (Active Student Status in Poland).
 
